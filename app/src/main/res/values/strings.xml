@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">博媛荟</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">广东博媛实业有限公司</string>
+    <string name="nav_header_subtitle">Official address temporarily unavailable</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

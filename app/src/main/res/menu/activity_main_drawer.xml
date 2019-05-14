@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:title="Communicate">
+
+        <item
+            android:id="@+id/allSetting"
+            android:icon="@android:drawable/ic_menu_edit"
+            android:title="设置地址" />
+        <item
+            android:id="@+id/gotoAddress"
+            android:icon="@android:drawable/ic_menu_myplaces"
+            android:title="返回主页" />
+
+        <item
+            android:id="@+id/clearCache"
+            android:icon="@android:drawable/ic_menu_delete"
+            android:title="清除缓存" />
+        <item
+            android:id="@+id/version"
+            android:icon="@android:drawable/ic_menu_sort_by_size"
+            android:title="系统信息" />
+        <item
+            android:id="@+id/updata"
+            android:icon="@android:drawable/ic_menu_upload"
+            android:title="检查更新" />
+    </group>
+
+</menu>
